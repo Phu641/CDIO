@@ -1,0 +1,51 @@
+﻿@model IEnumerable<DoAnCDIO2_Genuine_Cosmetic.Data.HangHoa>
+
+@{
+    ViewData["Title"] = "Danh Mục Sản Phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh Mục Sản Phẩm</h1>
+
+<p>
+    <a class="btn btn-primary" href="ThemSanPhamMoii">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+<div class="table-responsive">
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr class="table-warning">
+                <th>@Html.DisplayNameFor(model => model.Hinh)</th>
+                <th style="white-space: normal;">@Html.DisplayNameFor(model => model.TenHh)</th>
+                <th style="width: 100px;">Hãng SX</th>
+                <th>@Html.DisplayNameFor(model => model.MoTaDonVi)</th>
+                <th>@Html.DisplayNameFor(model => model.DonGia)</th>
+                <th>@Html.DisplayNameFor(model => model.NgaySx)</th>
+                <th>@Html.DisplayNameFor(model => model.GiamGia)</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="table-success">
+                    <td>
+                        <img src="~/img_sp/@item.Hinh" alt="@item.TenHh" class="img-thumbnail" style="max-width: 50px; max-height: 50px;" />
+                    </td>
+                    <td style="white-space: normal;">@Html.DisplayFor(modelItem => item.TenHh)</td>
+                    <td style="max-width: 140px; max-height: 70px">
+                        <span title="@item.HangSx">@Html.DisplayFor(modelItem => item.HangSx)</span>
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.MoTaDonVi)</td>
+                    <td>@Html.DisplayFor(modelItem => item.DonGia)</td>
+                    <td>@Html.DisplayFor(modelItem => item.NgaySx)</td>
+                    <td>@Html.DisplayFor(modelItem => item.GiamGia)</td>
+                    <td>
+                        <a class="btn btn-sm btn-info" href="SuaSanPham/@item.MaHh" asp-route-id="@item.MaHh">Edit</a>
+                        <a class="btn btn-sm btn-danger" href="XoaSanPham/@item.MaHh" asp-route-id="@item.MaHh">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

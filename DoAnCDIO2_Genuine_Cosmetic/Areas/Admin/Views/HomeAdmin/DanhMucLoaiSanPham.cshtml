@@ -1,0 +1,50 @@
+﻿@model IEnumerable<DoAnCDIO2_Genuine_Cosmetic.Data.Loai>
+
+@{
+    ViewData["Title"] = "DanhMucLoaiSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh Mục Loại Sản Phẩm </h1>
+
+<p>
+    <a class="btn btn-primary" href="ThemLoaiSanPhamMoi">Create New</a>
+</p>
+<p>@TempData["Message"]</p>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr class="table-warning">
+            <th>
+                @Html.DisplayNameFor(model => model.MaLoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenLoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+                <tr class="table-success">
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaLoai)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                        <a class="btn btn-sm btn-info" href="SuaLoaiSanPham/@item.MaLoai" asp-route-id="@item.MaLoai">Edit</a>
+                        <a class="btn btn-sm btn-danger" href="XoaLoaiSanPham/@item.MaLoai" asp-route-id="@item.MaLoai">Delete</a>
+             </td>
+        </tr>
+}
+    </tbody>
+</table>
+    </div>

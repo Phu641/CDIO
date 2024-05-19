@@ -1,0 +1,44 @@
+﻿@model DoAnCDIO2_Genuine_Cosmetic.ViewModels.LoginVM
+@{
+    ViewData["Title"] = "DangNhap";
+}
+
+    <div style="height:100px">
+    </div>
+<div class="container-fluid py-5" style="display: flex; align-items: flex-start;">
+    <img src="~/Logo_Cosmetic/441409602_1243173270183893_3921577588569963285_n.png" style="max-width: 33%; height: auto; margin: 20px;" />
+    <div class="container py-5" style="flex-grow: 1;">
+        <form asp-action="DangNhap" asp-route-returnurl="@ViewBag.ReturnUrl" style="margin-left: auto; height: calc(100% + 64px);">
+            <h1 class="mb-4">Sign In</h1>
+            <input type="hidden" name="ReturnUrl" value="@ViewBag.ReturnUrl" />
+            <div class="text-danger" asp-validation-summary="None"></div>
+            <div class="row">
+                <div class="row">
+                    <div class="col-md-12 col-lg-6">
+                        <div class="form-item w-100">
+                            <label asp-for="UserName" class="form-label my-3"></label><sup>*</sup>
+                            <input asp-for="UserName" class="form-control" />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <label asp-for="Password" class="form-label my-3"></label><sup>*</sup>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-12">
+                        <span class="text-danger">@Html.ValidationMessage("loi")</span>
+                    </div>
+                    <div class="row g-4 text-center align-items-center justify-content-center pt-4">
+                        <button type="submit" class="btn border-secondary py-3 px-4 text-uppercase w-100 text-primary">Sign In</button>
+                        <a asp-controller="KhachHang" asp-action="QuenMatKhau" class="btn border-danger">Forgot Password</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+

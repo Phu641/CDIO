@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DoAnCDIO2_Genuine_Cosmetic.props" />
+</Project>
