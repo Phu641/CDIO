@@ -5,7 +5,6 @@ namespace DoAnCDIO2_Genuine_Cosmetic.Data;
 
 public partial class HangHoa
 {
-    public int OnSales {  get; set; }
     public int MaHh { get; set; }
 
     public string? TenHh { get; set; }
@@ -22,7 +21,7 @@ public partial class HangHoa
 
     public DateOnly? NgaySx { get; set; }
 
-    public decimal? GiamGia { get; set; }
+    public float? GiamGia { get; set; }
 
     public string? MoTa { get; set; }
 

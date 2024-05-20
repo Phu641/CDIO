@@ -43,7 +43,7 @@ public partial class GenuineCosmeticContext : DbContext
 
 			entity.Property(e => e.MaCt).HasColumnName("MaCT");
 			entity.Property(e => e.DonGia).HasColumnType("double");
-			entity.Property(e => e.GiamGia).HasColumnType("decimal(5, 2)");
+			entity.Property(e => e.GiamGia).HasColumnType("float");
 			entity.Property(e => e.MaHd).HasColumnName("MaHD");
 			entity.Property(e => e.MaHh).HasColumnName("MaHH");
 
@@ -66,7 +66,7 @@ public partial class GenuineCosmeticContext : DbContext
 				.ValueGeneratedNever()
 				.HasColumnName("MaHH");
 			entity.Property(e => e.DonGia).HasColumnType("double");
-			entity.Property(e => e.GiamGia).HasColumnType("decimal(5, 2)");
+			entity.Property(e => e.GiamGia).HasColumnType("float");
 			entity.Property(e => e.HangSx)
 				.HasMaxLength(50)
 				.HasColumnName("HangSX");

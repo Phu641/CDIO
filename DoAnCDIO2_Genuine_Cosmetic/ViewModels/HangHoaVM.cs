@@ -10,7 +10,7 @@
         public string Hinh { get; set; }
         public string TenLoai { get; set; }
 
-
+        public float GiamGia { get; set; }
     }
     public class ChiTietHangHoaVM
     {
@@ -24,6 +24,7 @@
         public string ChiTiet { get; set; }
         public int DiemDanhGia { get; set; }
         public int SoLuongTon { get; set; }
+        public float GiamGia { get; set; }
 
     }
 
@@ -36,6 +37,7 @@
         public double DonGia { get; set; }
         public string Hinh { get; set; }
         public string TenLoai { get; set; }
+        public float GiamGia { get; set; }
     }
 
     public class ConveyorVM1
@@ -47,6 +49,7 @@
         public double DonGia { get; set; }
         public string Hinh { get; set; }
         public string TenLoai { get; set; }
+        public float GiamGia { get; set; }
     }
 
     public class SaleVM
@@ -59,7 +62,7 @@
         public string Hinh { get; set; }
         public string TenLoai { get; set; }
 
-        public decimal GiamGia {  get; set; }
+        public float GiamGia {  get; set; }
     }
 
 

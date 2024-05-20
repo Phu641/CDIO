@@ -4,10 +4,10 @@
 *@
 @foreach (var item in Model)
 {
-    <div class="border border-primary rounded position-relative vesitable-item" style="background-color:white">
+    <div class="border border-primary rounded position-relative vesitable-item" style="background-color:white;">
         <div class="vesitable-img">
             <a asp-action="Detail" asp-controller="HangHoa" asp-route-id="@item.MaHh">
-                <img src="~/img_sp/@item.Hinh" class="img-fluid w-100 rounded-top" alt="" style="height: 200px;">
+                <img src="~/img_sp/@item.Hinh" class="img-fluid w-100 rounded-top" alt="" >
             </a>
         </div>
         <div class="text-white bg-primary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px; background-color:#d52c2c !important;">-@item.GiamGia%</div>

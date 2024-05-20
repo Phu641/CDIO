@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJVsJ8rPl5wEIyceWhMm6ScSkViX1520es9tACb4CnIMOzrd7x+GEDZA1m0IqtlJdzOC8mcnrXIyZt3O4iddfQ==",
+  "dgSpecHash": "+vkpm56sxkxO0Kj7RecfjRKW2+uo2gCPUACle3Uix88KAjL9cm0cY9a0YFYY6JnXFRcpbAUoqP1KMGQwM6NM6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phamp\\Downloads\\cccc\\CDIO2_Genuine_Cosmetic-main\\CDIO2_Genuine_Cosmetic-main\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
+  "projectFilePath": "C:\\Users\\phamp\\Desktop\\ddd\\CDIO\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phamp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\phamp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

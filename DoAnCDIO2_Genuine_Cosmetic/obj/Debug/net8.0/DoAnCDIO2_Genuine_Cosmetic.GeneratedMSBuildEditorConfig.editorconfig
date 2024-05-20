@@ -17,167 +17,167 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DoAnCDIO2_Genuine_Cosmetic
 build_property.RootNamespace = DoAnCDIO2_Genuine_Cosmetic
-build_property.ProjectDir = C:\Users\phamp\Downloads\cccc\CDIO2_Genuine_Cosmetic-main\CDIO2_Genuine_Cosmetic-main\DoAnCDIO2_Genuine_Cosmetic\
+build_property.ProjectDir = C:\Users\phamp\Desktop\ddd\CDIO\DoAnCDIO2_Genuine_Cosmetic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\phamp\Downloads\cccc\CDIO2_Genuine_Cosmetic-main\CDIO2_Genuine_Cosmetic-main\DoAnCDIO2_Genuine_Cosmetic
+build_property.MSBuildProjectDirectory = C:\Users\phamp\Desktop\ddd\CDIO\DoAnCDIO2_Genuine_Cosmetic
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/ChiTietDonHang.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/ChiTietDonHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXENoaVRpZXREb25IYW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/DanhMucLoaiSanPham.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/DanhMucLoaiSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNMb2FpU2FuUGhhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/DanhMucSanPham.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/DanhMucSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNTYW5QaGFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/DanhSachDonHang.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/DanhSachDonHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhTYWNoRG9uSGFuZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/DanhSachKhachHang.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/DanhSachKhachHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhTYWNoS2hhY2hIYW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/QuanLyTaiKhoan.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/QuanLyTaiKhoan.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFF1YW5MeVRhaUtob2FuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/SuaLoaiSanPham.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/SuaLoaiSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YUxvYWlTYW5QaGFtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/SuaSanPham.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFN1YVNhblBoYW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/ThemLoaiSanPhamMoi.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/ThemLoaiSanPhamMoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1Mb2FpU2FuUGhhbU1vaS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoii.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/HomeAdmin/ThemSanPhamMoii.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1TYW5QaGFtTW9paS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Cart/Checkout.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Cart/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Cart/Index.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Cart/PaymentFail.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Cart/PaymentFail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxQYXltZW50RmFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Cart/Success.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Cart/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxTdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/HangHoa/Detail.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/HangHoa/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/HangHoa/Index.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/HangHoa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/HangHoa/ProductItem.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/HangHoa/ProductItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxQcm9kdWN0SXRlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/HomeController1/Index.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/HomeController1/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUNvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Home/Contact.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Home/Index.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Home/PageNotFound.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Home/PageNotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlTm90Rm91bmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Home/Privacy.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/KhachHang/DangKy.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/KhachHang/DangKy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhbmdLeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/KhachHang/DangNhap.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/KhachHang/DangNhap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXERhbmdOaGFwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/KhachHang/Profile.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/KhachHang/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nXFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/Cart/CartPanel.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/Cart/CartPanel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxDYXJ0UGFuZWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/Conveyor1/Default.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/Conveyor1/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udmV5b3IxXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/Conveyor/Default.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/Conveyor/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udmV5b3JcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/MenuLoai/Default.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/MenuLoai/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUxvYWlcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/Sale/Default.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Components/Sale/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2FsZVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Error.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/_Footer.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/_LayoutCustomer.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/_LayoutCustomer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDdXN0b21lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/_ViewImports.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/_ViewStart.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/phamp/Downloads/cccc/CDIO2_Genuine_Cosmetic-main/CDIO2_Genuine_Cosmetic-main/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/_Layout.cshtml]
+[C:/Users/phamp/Desktop/ddd/CDIO/DoAnCDIO2_Genuine_Cosmetic/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-va5mk3hx1i

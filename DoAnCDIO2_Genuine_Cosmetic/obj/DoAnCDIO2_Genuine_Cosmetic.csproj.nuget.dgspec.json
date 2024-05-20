@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phamp\\Downloads\\cccc\\CDIO2_Genuine_Cosmetic-main\\CDIO2_Genuine_Cosmetic-main\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {}
+    "C:\\Users\\phamp\\Desktop\\ddd\\CDIO\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phamp\\Downloads\\cccc\\CDIO2_Genuine_Cosmetic-main\\CDIO2_Genuine_Cosmetic-main\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {
+    "C:\\Users\\phamp\\Desktop\\ddd\\CDIO\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phamp\\Downloads\\cccc\\CDIO2_Genuine_Cosmetic-main\\CDIO2_Genuine_Cosmetic-main\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
+        "projectUniqueName": "C:\\Users\\phamp\\Desktop\\ddd\\CDIO\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
         "projectName": "DoAnCDIO2_Genuine_Cosmetic",
-        "projectPath": "C:\\Users\\phamp\\Downloads\\cccc\\CDIO2_Genuine_Cosmetic-main\\CDIO2_Genuine_Cosmetic-main\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
+        "projectPath": "C:\\Users\\phamp\\Desktop\\ddd\\CDIO\\DoAnCDIO2_Genuine_Cosmetic\\DoAnCDIO2_Genuine_Cosmetic.csproj",
         "packagesPath": "C:\\Users\\phamp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phamp\\Downloads\\cccc\\CDIO2_Genuine_Cosmetic-main\\CDIO2_Genuine_Cosmetic-main\\DoAnCDIO2_Genuine_Cosmetic\\obj\\",
+        "outputPath": "C:\\Users\\phamp\\Desktop\\ddd\\CDIO\\DoAnCDIO2_Genuine_Cosmetic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
